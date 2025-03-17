@@ -1,0 +1,674 @@
+﻿codigo_variavel;descricao_variavel;categoria_variavel;descricao _categoria
+UF;Unidade da Federação;11;Rondônia
+UF;Unidade da Federação;12;Acre
+UF;Unidade da Federação;13;Amazonas
+UF;Unidade da Federação;14;Roraima
+UF;Unidade da Federação;15;Pará
+UF;Unidade da Federação;16;Amapá
+UF;Unidade da Federação;17;Tocantins
+UF;Unidade da Federação;21;Maranhão
+UF;Unidade da Federação;22;Piauí
+UF;Unidade da Federação;23;Ceará
+UF;Unidade da Federação;24;Rio Grande do Norte
+UF;Unidade da Federação;25;Paraíba
+UF;Unidade da Federação;26;Pernambuco
+UF;Unidade da Federação;27;Alagoas
+UF;Unidade da Federação;28;Sergipe
+UF;Unidade da Federação;29;Bahia
+UF;Unidade da Federação;31;Minas Gerais
+UF;Unidade da Federação;32;Espírito Santo
+UF;Unidade da Federação;33;Rio de Janeiro
+UF;Unidade da Federação;35;São Paulo
+UF;Unidade da Federação;41;Paraná
+UF;Unidade da Federação;42;Santa Catarina
+UF;Unidade da Federação;43;Rio Grande do Sul
+UF;Unidade da Federação;50;Mato Grosso do Sul
+UF;Unidade da Federação;51;Mato Grosso
+UF;Unidade da Federação;52;Goiás
+UF;Unidade da Federação;53;Distrito Federal
+CAPITAL;Capital;11;Município de Porto Velho (RO)
+CAPITAL;Capital;12;Município de Rio Branco (AC)
+CAPITAL;Capital;13;Município de Manaus (AM)
+CAPITAL;Capital;14;Município de Boa Vista (RR)
+CAPITAL;Capital;15;Município de Belém (PA)
+CAPITAL;Capital;16;Município de Macapá (AP)
+CAPITAL;Capital;17;Município de Palmas (TO)
+CAPITAL;Capital;21;Município de São Luís (MA)
+CAPITAL;Capital;22;Município de Teresina (PI)
+CAPITAL;Capital;23;Município de Fortaleza (CE)
+CAPITAL;Capital;24;Município de Natal (RN)
+CAPITAL;Capital;25;Município de João Pessoa (PB)
+CAPITAL;Capital;26;Município de Recife (PE)
+CAPITAL;Capital;27;Município de Maceió (AL)
+CAPITAL;Capital;28;Município de Aracaju (SE)
+CAPITAL;Capital;29;Município de Salvador (BA)
+CAPITAL;Capital;31;Município de Belo Horizonte (MG)
+CAPITAL;Capital;32;Município de Vitória (ES)
+CAPITAL;Capital;33;Município de Rio de Janeiro (RJ)
+CAPITAL;Capital;35;Município de São Paulo (SP)
+CAPITAL;Capital;41;Município de Curitiba (PR)
+CAPITAL;Capital;42;Município de Florianópolis (SC)
+CAPITAL;Capital;43;Município de Porto Alegre (RS)
+CAPITAL;Capital;50;Município de Campo Grande (MS)
+CAPITAL;Capital;51;Município de Cuiabá (MT)
+CAPITAL;Capital;52;Município de Goiânia (GO)
+CAPITAL;Capital;53;Município de Brasília (DF)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";13;Região Metropolitana de Manaus (AM)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";15;Região Metropolitana de Belém (PA)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";16;Região Metropolitana de Macapá (AP)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";21;"Região Metropolitana de Grande São
+Luís (MA)"
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";22;"Região Administrativa Integrada
+de Desenvolvimento da Grande Teresina (PI)"
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";23;Região Metropolitana de Fortaleza (CE)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";24;Região Metropolitana de Natal (RN)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";25;Região Metropolitana de João Pessoa (PB)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";26;Região Metropolitana de Recife (PE)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";27;Região Metropolitana de Maceió (AL)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";28;Região Metropolitana de Aracaju (SE)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";29;Região Metropolitana de Salvador (BA)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";31;Região Metropolitana de Belo Horizonte (MG)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";32;Região Metropolitana de Grande Vitória (ES)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";33;Região Metropolitana de Rio de Janeiro (RJ)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";35;Região Metropolitana de São Paulo (SP)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";41;Região Metropolitana de Curitiba (PR)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";42;Região Metropolitana de Florianópolis (SC)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";43;Região Metropolitana de Porto Alegre (RS)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";51;Região Metropolitana de Vale do Rio Cuiabá (MT)
+RM_RIDE;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento";52;Região Metropolitana de Goiânia (GO)
+V1008;Número de seleção do domicílio;01 a 14;Número do domicílio
+V1012;Semana no mês;1 a 4;
+V1013;Mês da pesquisa;01 a 12;Mês da pesquisa (janeiro a dezembro)
+V1016;Número da entrevista no domicílio;1 a 99;Número da entrevista
+Estrato;Estrato;Estrato;
+UPA;UPA;UPA - Unidade primária de amostragem;
+V1022;Situação do domicílio;1;Urbana
+V1022;Situação do domicílio;2;Rural
+V1023;Tipo de área;1;Capital
+V1023;Tipo de área;2;Resto da RM (Região Metropolitana, excluindo a capital)
+V1023;Tipo de área;3;Resto da RIDE (Região Integrada de Desenvolvimento Econômico, excluindo a capital) 
+V1023;Tipo de área;4;Resto da UF  (Unidade da Federação, excluindo a região metropolitana e a RIDE)
+V1030;Projeção da população;;Projeção da população do mês (referência: dia 15 do mês de referência da coleta)
+V1031;Peso do domicílio e das pessoas;6 dígitos e 8 casas decimais;Peso mensal com correção de não entrevista sem pós estratificação pela projeção de população
+V1032;Peso do domicílio e das pessoas;6 dígitos e 8 casas decimais;Peso mensal com correção de não entrevista com pós estratificação pela projeção de população
+posest;Domínios de projeção;;As 2 primeiras posições representam o código da Unidade da Federação, a terceira, o sexo do morador e a última, a faixa etária do morador. UF(2) + A003(1) + Faixa Etária com base na A002(1)
+A001;Número de ordem;01 a 30;
+A001A;Condição no domicílio;01;Pessoa responsável pelo domicílio 
+A001A;Condição no domicílio;02;Cônjuge ou companheiro(a) de sexo diferente
+A001A;Condição no domicílio;03;Cônjuge ou companheiro(a) do mesmo sexo
+A001A;Condição no domicílio;04;Filho(a) do responsável e do cônjuge 
+A001A;Condição no domicílio;05;Filho(a) somente do responsável
+A001A;Condição no domicílio;06;Filho(a) somente do cônjuge
+A001A;Condição no domicílio;07;Genro ou nora
+A001A;Condição no domicílio;08;Pai, mãe, padrasto ou madrasta
+A001A;Condição no domicílio;09;Sogro(a)
+A001A;Condição no domicílio;10;Neto(a)
+A001A;Condição no domicílio;11;Bisneto(a) 
+A001A;Condição no domicílio;12;Irmão ou irmã
+A001A;Condição no domicílio;13;Avô ou avó
+A001A;Condição no domicílio;14;Outro parente
+A001A;Condição no domicílio;15;Agregado(a) - Não parente que não compartilha despesas
+A001A;Condição no domicílio;16;Convivente - Não parente que compartilha despesas
+A001A;Condição no domicílio;17;Pensionista
+A001A;Condição no domicílio;18;Empregado(a) doméstico(a)
+A001A;Condição no domicílio;19;Parente do(a) empregado(a) doméstico(a)
+A001B1;Dia de nascimento;01 a 31;Dia de nascimento 
+A001B1;;99;Não informado
+A001B2;Mês de nascimento;01 a 12;Mês
+A001B2;;99;Não informado
+A001B3;Ano de nascimento;Ano de referência menos 130 até ano de referência;Ano
+A002;Idade do morador ;000 a 130;Idade (em anos)
+A003;Sexo;1;Homem
+A003;Sexo;2;Mulher
+A004;Cor ou raça;1;Branca
+A004;Cor ou raça;2;Preta
+A004;Cor ou raça;3;Amarela
+A004;Cor ou raça;4;Parda
+A004;Cor ou raça;5;Indígena
+A004;Cor ou raça;9;Ignorado
+A005;Escolaridade;1;Sem instrução
+A006;;2;Fundamental incompleto
+A007;;3;Fundamental completa
+A008;;4;Médio incompleto
+A009;;5;Médio completo
+A010;;6;Superior incompleto
+A011;;7;Superior completo
+A012;;8;Pós-graduação, mestrado ou doutorado
+A006;Frequenta escola;1;Sim
+A006;Frequenta escola;2;Não
+A006;Frequenta escola;;Não aplicável
+A006A;A escola / escola ou faculdade que frequenta é pública ou privada?;1;Pública
+A006A;A escola / escola ou faculdade que frequenta é pública ou privada?;2;Privada
+A006A;A escola / escola ou faculdade que frequenta é pública ou privada?;;Não aplicável
+A006B;Você está tendo aulas presenciais?;1;Sim, normalmente
+A006B;Você está tendo aulas presenciais?;2;Sim, mas apenas parcialmente
+A006B;Você está tendo aulas presenciais?;3;Não, e meu normalmente é presencial/semipresencial
+A006B;Você está tendo aulas presenciais?;4;Não, meu curso é online
+A006B;Você está tendo aulas presenciais?;;Não aplicável
+A007;Na semana passada, _____ foram disponibilizadas atividades escolares para realizar em casa?;1;Sim, e realizou pelo menos parte delas
+A007;Na semana passada, _____ foram disponibilizadas atividades escolares para realizar em casa?;2;Sim, mas não realizou (por qualquer motivo)
+A007;Na semana passada, _____ foram disponibilizadas atividades escolares para realizar em casa?;3;Não
+A007;Na semana passada, _____ foram disponibilizadas atividades escolares para realizar em casa?;4;Não, porque estava de férias
+A007;Na semana passada, _____ foram disponibilizadas atividades escolares para realizar em casa?;;Não aplicável
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;1;Não tinha computador / tablet / celular disponível
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;2;Não tinha acesso à internet ou a qualidade dela era insuficiente
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;3;Por problemas de saúde da própria pessoa
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;4;Tinha que cuidar dos afazeres domésticos, do(s) filhos ou de outro(s) parentes
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;5;Não conseguiu se concentrar
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;6;Outro motivo. Especifique.
+A007A;Por que não realizou as atividades disponibilizadas na semana passada?;;Não aplicável
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;1;1 dia
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;2;2 dias
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;3;3 dias
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;4;4 dias
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;5;5 dias
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;6;6 ou 7 dias
+A008;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares? ;;Não aplicável
+A009;Na semana passada, quanto tempo por dia ____ gastou fazendo as atividades escolares?  escolares? ;1;Menos de 1 hora
+A009;Na semana passada, quanto tempo por dia ____ gastou fazendo as atividades escolares?  escolares? ;2;De 1 hora a menos de 2 horas
+A009;Na semana passada, quanto tempo por dia ____ gastou fazendo as atividades escolares?  escolares? ;3;De 2 horas a menos de 5 horas
+A009;Na semana passada, quanto tempo por dia ____ gastou fazendo as atividades escolares?  escolares? ;4;5 horas ou mais
+A009;Na semana passada, quanto tempo por dia ____ gastou fazendo as atividades escolares?  escolares? ;;Não aplicável
+B0011;Na semana passada teve febre?;1;Sim
+B0011;Na semana passada teve febre?;2;Não 
+B0011;Na semana passada teve febre?;3;Não sabe
+B0011;Na semana passada teve febre?;9;Ignorado
+B0012;Na semana passada teve tosse?;1;Sim
+B0012;Na semana passada teve tosse?;2;Não 
+B0012;Na semana passada teve tosse?;3;Não sabe
+B0012;Na semana passada teve tosse?;9;Ignorado
+B0013;Na semana passada teve dor de garganta?;1;Sim
+B0013;Na semana passada teve dor de garganta?;2;Não 
+B0013;Na semana passada teve dor de garganta?;3;Não sabe
+B0013;Na semana passada teve dor de garganta?;9;Ignorado
+B0014;Na semana passada teve dificuldade para respirar?;1;Sim
+B0014;Na semana passada teve dificuldade para respirar?;2;Não 
+B0014;Na semana passada teve dificuldade para respirar?;3;Não sabe
+B0014;Na semana passada teve dificuldade para respirar?;9;Ignorado
+B0015;Na semana passada teve dor de cabeça?;1;Sim
+B0015;Na semana passada teve dor de cabeça?;2;Não 
+B0015;Na semana passada teve dor de cabeça?;3;Não sabe
+B0015;Na semana passada teve dor de cabeça?;9;Ignorado
+B0016;Na semana passada teve dor no peito?;1;Sim
+B0016;Na semana passada teve dor no peito?;2;Não 
+B0016;Na semana passada teve dor no peito?;3;Não sabe
+B0016;Na semana passada teve dor no peito?;9;Ignorado
+B0017;Na semana passada teve náusea?;1;Sim
+B0017;Na semana passada teve náusea?;2;Não 
+B0017;Na semana passada teve náusea?;3;Não sabe
+B0017;Na semana passada teve náusea?;9;Ignorado
+B0018;Na semana passada teve nariz entupido ou escorrendo?;1;Sim
+B0018;Na semana passada teve nariz entupido ou escorrendo?;2;Não 
+B0018;Na semana passada teve nariz entupido ou escorrendo?;3;Não sabe
+B0018;Na semana passada teve nariz entupido ou escorrendo?;9;Ignorado
+B0019;Na semana passada teve fadiga?;1;Sim
+B0019;Na semana passada teve fadiga?;2;Não 
+B0019;Na semana passada teve fadiga?;3;Não sabe
+B0019;Na semana passada teve fadiga?;9;Ignorado
+B00110;Na semana passada teve dor nos olhos?;1;Sim
+B00110;Na semana passada teve dor nos olhos?;2;Não 
+B00110;Na semana passada teve dor nos olhos?;3;Não sabe
+B00110;Na semana passada teve dor nos olhos?;9;Ignorado
+B00111;Na semana passada teve perda de cheiro ou sabor?;1;Sim
+B00111;Na semana passada teve perda de cheiro ou sabor?;2;Não 
+B00111;Na semana passada teve perda de cheiro ou sabor?;3;Não sabe
+B00111;Na semana passada teve perda de cheiro ou sabor?;9;Ignorado
+B00112;Na semana passada teve dor muscular?;1;Sim
+B00112;Na semana passada teve dor muscular?;2;Não 
+B00112;Na semana passada teve dor muscular?;3;Não sabe
+B00112;Na semana passada teve dor muscular?;9;Ignorado
+B00113;Na semana passada teve diarreia?;1;Sim
+B00113;Na semana passada teve diarreia?;2;Não 
+B00113;Na semana passada teve diarreia?;3;Não sabe
+B00113;Na semana passada teve diarreia?;9;Ignorado
+B002;Por causa disso, foi a algum estabelecimento de saúde?;1;Sim
+B002;Por causa disso, foi a algum estabelecimento de saúde?;2;Não 
+B002;Por causa disso, foi a algum estabelecimento de saúde?;9;Ignorado
+B002;Por causa disso, foi a algum estabelecimento de saúde?;;Não aplicável
+B0031;Providência tomada para recuperar dos sintomas foi ficar em casa;1;Sim
+B0031;Providência tomada para recuperar dos sintomas foi ficar em casa;2;Não 
+B0031;Providência tomada para recuperar dos sintomas foi ficar em casa;9;Ignorado
+B0031;Providência tomada para recuperar dos sintomas foi ficar em casa;;Não aplicável
+B0032;Providência tomada para recuperar dos sintomas foi ligar para algum profissional de saúde;1;Sim
+B0032;Providência tomada para recuperar dos sintomas foi ligar para algum profissional de saúde;2;Não 
+B0032;Providência tomada para recuperar dos sintomas foi ligar para algum profissional de saúde;9;Ignorado
+B0032;Providência tomada para recuperar dos sintomas foi ligar para algum profissional de saúde;;Não aplicável
+B0033;Providência tomada  para recuperar dos sintomas foi comprar e/ou tomar  remédio por conta própria;1;Sim
+B0033;Providência tomada  para recuperar dos sintomas foi comprar e/ou tomar  remédio por conta própria;2;Não 
+B0033;Providência tomada  para recuperar dos sintomas foi comprar e/ou tomar  remédio por conta própria;9;Ignorado
+B0033;Providência tomada  para recuperar dos sintomas foi comprar e/ou tomar  remédio por conta própria;;Não aplicável
+B0034;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por orientação médica;1;Sim
+B0034;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por orientação médica;2;Não 
+B0034;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por orientação médica;9;Ignorado
+B0034;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por orientação médica;;Não aplicável
+B0035;Providência tomada para recuperar dos sintomas foi receber visita de algum profissional de saúde do SUS (equipe de saúde da família, agente comunitário, etc.);1;Sim
+B0035;Providência tomada para recuperar dos sintomas foi receber visita de algum profissional de saúde do SUS (equipe de saúde da família, agente comunitário, etc.);2;Não 
+B0035;Providência tomada para recuperar dos sintomas foi receber visita de algum profissional de saúde do SUS (equipe de saúde da família, agente comunitário, etc.);9;Ignorado
+B0035;Providência tomada para recuperar dos sintomas foi receber visita de algum profissional de saúde do SUS (equipe de saúde da família, agente comunitário, etc.);;Não aplicável
+B0036;Providência tomada para recuperar dos sintomas foi receber visita de profissional de saúde particular ;1;Sim
+B0036;Providência tomada para recuperar dos sintomas foi receber visita de profissional de saúde particular ;2;Não 
+B0036;Providência tomada para recuperar dos sintomas foi receber visita de profissional de saúde particular ;9;Ignorado
+B0036;Providência tomada para recuperar dos sintomas foi receber visita de profissional de saúde particular ;;Não aplicável
+B0037;Providência tomada para recuperar dos sintomas foi outra;1;Sim
+B0037;Providência tomada para recuperar dos sintomas foi outra;2;Não 
+B0037;Providência tomada para recuperar dos sintomas foi outra;9;Ignorado
+B0037;Providência tomada para recuperar dos sintomas foi outra;;Não aplicável
+B0041;Local que buscou atendimento foi posto de saúde/Unidade básica de saúde /Equipe de Saúde da Família (médico, enfermeiro, técnico de enfermagem ou agente comunitário de saúde);1;Sim
+B0041;Local que buscou atendimento foi posto de saúde/Unidade básica de saúde /Equipe de Saúde da Família (médico, enfermeiro, técnico de enfermagem ou agente comunitário de saúde);2;Não 
+B0041;Local que buscou atendimento foi posto de saúde/Unidade básica de saúde /Equipe de Saúde da Família (médico, enfermeiro, técnico de enfermagem ou agente comunitário de saúde);9;Ignorado
+B0041;Local que buscou atendimento foi posto de saúde/Unidade básica de saúde /Equipe de Saúde da Família (médico, enfermeiro, técnico de enfermagem ou agente comunitário de saúde);;Não aplicável
+B0042;Local que buscou atendimento foi pronto socorro do SUS/UPA;1;Sim
+B0042;Local que buscou atendimento foi pronto socorro do SUS/UPA;2;Não 
+B0042;Local que buscou atendimento foi pronto socorro do SUS/UPA;9;Ignorado
+B0042;Local que buscou atendimento foi pronto socorro do SUS/UPA;;Não aplicável
+B0043;Local que buscou atendimento foi hospital do SUS;1;Sim
+B0043;Local que buscou atendimento foi hospital do SUS;2;Não 
+B0043;Local que buscou atendimento foi hospital do SUS;9;Ignorado
+B0043;Local que buscou atendimento foi hospital do SUS;;Não aplicável
+B0044;Local que buscou atendimento foi ambulatório ou consultório privado ou ligado às forças armadas;1;Sim
+B0044;Local que buscou atendimento foi ambulatório ou consultório privado ou ligado às forças armadas;2;Não 
+B0044;Local que buscou atendimento foi ambulatório ou consultório privado ou ligado às forças armadas;9;Ignorado
+B0044;Local que buscou atendimento foi ambulatório ou consultório privado ou ligado às forças armadas;;Não aplicável
+B0045;Local que buscou atendimento foi pronto socorro privado ou ligado às forças armadas;1;Sim
+B0045;Local que buscou atendimento foi pronto socorro privado ou ligado às forças armadas;2;Não 
+B0045;Local que buscou atendimento foi pronto socorro privado ou ligado às forças armadas;9;Ignorado
+B0045;Local que buscou atendimento foi pronto socorro privado ou ligado às forças armadas;;Não aplicável
+B0046;Local que buscou atendimento foi hospital privado ou ligado às forças armadas;1;Sim
+B0046;Local que buscou atendimento foi hospital privado ou ligado às forças armadas;2;Não 
+B0046;Local que buscou atendimento foi hospital privado ou ligado às forças armadas;9;Ignorado
+B0046;Local que buscou atendimento foi hospital privado ou ligado às forças armadas;;Não aplicável
+B005;Ao procurar o hospital, teve que ficar internado por um dia ou mais;1;Sim
+B005;Ao procurar o hospital, teve que ficar internado por um dia ou mais;2;Não 
+B005;Ao procurar o hospital, teve que ficar internado por um dia ou mais;3;Não foi atendido
+B005;Ao procurar o hospital, teve que ficar internado por um dia ou mais;9;Ignorado
+B005;Ao procurar o hospital, teve que ficar internado por um dia ou mais;;Não aplicável
+B006;Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador;1;Sim
+B006;Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador;2;Não 
+B006;Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador;9;Ignorado
+B006;Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador;;Não aplicável
+B007;Tem algum plano de saúde médico, seja particular, de empresa ou de órgão público;1;Sim
+B007;Tem algum plano de saúde médico, seja particular, de empresa ou de órgão público;2;Não 
+B007;Tem algum plano de saúde médico, seja particular, de empresa ou de órgão público;9;Ignorado
+B008;O(A) Sr(a) fez algum teste para saber se estava infectado(a) pelo coronavírus? ;1;Sim
+B008;O(A) Sr(a) fez algum teste para saber se estava infectado(a) pelo coronavírus? ;2;Não 
+B008;O(A) Sr(a) fez algum teste para saber se estava infectado(a) pelo coronavírus? ;9;Ignorado
+B009A;Fez o exame coletado com cotonete na boca e/ou nariz (SWAB)? ;1;Sim
+B009A;Fez o exame coletado com cotonete na boca e/ou nariz (SWAB)? ;2;Não 
+B009A;Fez o exame coletado com cotonete na boca e/ou nariz (SWAB)? ;9;Ignorado
+B009B;Qual o resultado?;1;Positivo
+B009B;Qual o resultado?;2;Negativo
+B009B;Qual o resultado?;3;Inconclusivo
+B009B;Qual o resultado?;4;Ainda não recebeu o resultado
+B009B;Qual o resultado?;9;Ignorado
+B009B;Qual o resultado?;;Não aplicável
+B009C;Fez o exame de coleta de sangue através de furo no dedo?;1;Sim
+B009C;Fez o exame de coleta de sangue através de furo no dedo?;2;Não 
+B009C;Fez o exame de coleta de sangue através de furo no dedo?;9;Ignorado
+B009D;Qual o resultado?;1;Positivo
+B009D;Qual o resultado?;2;Negativo
+B009D;Qual o resultado?;3;Inconclusivo
+B009D;Qual o resultado?;4;Ainda não recebeu o resultado
+B009D;Qual o resultado?;9;Ignorado
+B009D;Qual o resultado?;;Não aplicável
+B009E;Fez o exame de coleta de sangue através da veia da braço?;1;Sim
+B009E;Fez o exame de coleta de sangue através da veia da braço?;2;Não 
+B009E;Fez o exame de coleta de sangue através da veia da braço?;9;Ignorado
+B009F;Qual o resultado?;1;Positivo
+B009F;Qual o resultado?;2;Negativo
+B009F;Qual o resultado?;3;Inconclusivo
+B009F;Qual o resultado?;4;Ainda não recebeu o resultado
+B009F;Qual o resultado?;9;Ignorado
+B009F;Qual o resultado?;;Não aplicável
+B0101;Algum médico já lhe deu o diagnóstico de diabetes?;1;Sim
+B0101;Algum médico já lhe deu o diagnóstico de diabetes?;2;Não
+B0101;Algum médico já lhe deu o diagnóstico de diabetes?;9;Ignorado
+B0102;Algum médico já lhe deu o diagnóstico de hipertensão?;1;Sim
+B0102;Algum médico já lhe deu o diagnóstico de hipertensão?;2;Não
+B0102;Algum médico já lhe deu o diagnóstico de hipertensão?;9;Ignorado
+B0103;Algum médico já lhe deu o diagnóstico de asma/bronquite/enfisema/doenças respiratória crônica ou doença de pulmão?;1;Sim
+B0103;Algum médico já lhe deu o diagnóstico de asma/bronquite/enfisema/doenças respiratória crônica ou doença de pulmão?;2;Não
+B0103;Algum médico já lhe deu o diagnóstico de asma/bronquite/enfisema/doenças respiratória crônica ou doença de pulmão?;9;Ignorado
+B0104;Algum médico já lhe deu o diagnóstico de doenças do coração (infarto, angina, insuficiência cardíaca, arritmia)?;1;Sim
+B0104;Algum médico já lhe deu o diagnóstico de doenças do coração (infarto, angina, insuficiência cardíaca, arritmia)?;2;Não
+B0104;Algum médico já lhe deu o diagnóstico de doenças do coração (infarto, angina, insuficiência cardíaca, arritmia)?;9;Ignorado
+B0105;Algum médico já lhe deu o diagnóstico de depressão?;1;Sim
+B0105;Algum médico já lhe deu o diagnóstico de depressão?;2;Não
+B0105;Algum médico já lhe deu o diagnóstico de depressão?;9;Ignorado
+B0106;Algum médico já lhe deu o diagnóstico de câncer?;1;Sim
+B0106;Algum médico já lhe deu o diagnóstico de câncer?;2;Não
+B0106;Algum médico já lhe deu o diagnóstico de câncer?;9;Ignorado
+B011;Qual foi o resultado do teste?  Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas? ;1;Não fez restrição, levou vida normal como antes da pandemia
+B011;Qual foi o resultado do teste?  Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas? ;2;Reduziu o contato com as pessoas, mas continuou saindo de casa para trabalho ou atividades não essenciais e/ou recebendo visitas
+B011;Qual foi o resultado do teste?  Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas? ;3;Ficou em casa e só saiu em caso de necessidade básica
+B011;Qual foi o resultado do teste?  Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas? ;4;Ficou rigorosamente em casa
+B011;Qual foi o resultado do teste?  Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas? ;9;Ignorado
+C001;Na semana passada, por pelo menos uma hora, trabalhou ou fez algum bico?;1;Sim
+C001;Na semana passada, por pelo menos uma hora, trabalhou ou fez algum bico?;2;Não
+C001;Na semana passada, por pelo menos uma hora, trabalhou ou fez algum bico?;;Não aplicável
+C002;Na semana passada, estava temporariamente afastado de algum trabalho?;1;Sim
+C002;Na semana passada, estava temporariamente afastado de algum trabalho?;2;Não
+C002;Na semana passada, estava temporariamente afastado de algum trabalho?;;Não aplicável
+C003;Qual o principal motivo deste afastamento temporário?;1;Estava em quarentena, isolamento, distanciamento social ou férias coletivas
+C003;Qual o principal motivo deste afastamento temporário?;2;Férias, folga ou jornada de trabalho variável 
+C003;Qual o principal motivo deste afastamento temporário?;3;Licença maternidade ou paternidade
+C003;Qual o principal motivo deste afastamento temporário?;4;Licença remunerada por motivo de saúde ou acidente da própria pessoa
+C003;Qual o principal motivo deste afastamento temporário?;5;Outro tipo de licença remunerada (estudo, paternidade, casamento, licença prêmio, etc.) 
+C003;Qual o principal motivo deste afastamento temporário?;6;Afastamento do próprio negócio/empresa por motivo de gestação, saúde, acidente, etc., sem ser remunerado por instituto de previdência
+C003;Qual o principal motivo deste afastamento temporário?;7;Fatores ocasionais (mau tempo, paralisação nos serviços de transportes, etc.)
+C003;Qual o principal motivo deste afastamento temporário?;8;Outro motivo
+C003;Qual o principal motivo deste afastamento temporário?;;Não aplicável
+C004;Continuou a ser remunerado (mesmo que parcialmente) por esse trabalho;1;Sim
+C004;Continuou a ser remunerado (mesmo que parcialmente) por esse trabalho;2;Não
+C004;Continuou a ser remunerado (mesmo que parcialmente) por esse trabalho;3;O trabalho já não era remunerado
+C004;Continuou a ser remunerado (mesmo que parcialmente) por esse trabalho;;Não aplicável
+C005;Há quanto tempo está afastado desse trabalho?;1;Menos de 1 mês 
+C005;Há quanto tempo está afastado desse trabalho?;2;De 1 mês a menos de 1 ano 
+C005;Há quanto tempo está afastado desse trabalho?;3;De 1 ano a menos de 2 anos
+C005;Há quanto tempo está afastado desse trabalho?;4;2 anos ou mais 
+C005;Há quanto tempo está afastado desse trabalho?;;Não aplicável
+C0051; tempo que estava afastado (De 1 mês a menos de 1 ano) ;01 a 11;01 a 11 meses
+C0051; tempo que estava afastado (De 1 mês a menos de 1 ano) ;;Não aplicável
+C0052;tempo que estava afastado (De 1 ano a menos de 2 anos) ;00 a 11;00 a 11 meses
+C0052;tempo que estava afastado (De 1 ano a menos de 2 anos) ;;Não aplicável
+C0053;tempo que estava afastado (de 02 anos a 98 anos) ;02 a 98;2 anos ou mais 
+C0053;tempo que estava afastado (de 02 anos a 98 anos) ;;Não aplicável
+C006;Tem mais de um trabalho;1;Sim
+C006;Tem mais de um trabalho;2;Não
+C006;Tem mais de um trabalho;;Não aplicável
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;1;Trabalhador doméstico (empregado doméstico, cuidados, babá)
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;2;Militar do exercito, marinha ou aeronáutica
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;3;Policial militar ou bombeiro militar
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;4;Empregado do setor privado 
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;5;Empregado do setor público (inclusive empresas de economia mista)
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;6;Empregador
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;7;Conta própria
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;8;Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;9;Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)
+C007;No trabalho (único ou principal) que tinha nessa semana, era:;;Não aplicável
+C007A;Esse trabalho era na área:;1;Federal
+C007A;Esse trabalho era na área:;2;Estadual
+C007A;Esse trabalho era na área:;3;Municipal
+C007A;Esse trabalho era na área:;;Não aplicável
+C007B;Tem carteira de trabalho assinada ou é funcionário público estatutário?;1;Sim, tem carteira de trabalho assinada
+C007B;Tem carteira de trabalho assinada ou é funcionário público estatutário?;2;Sim, é servidor público estatutário
+C007B;Tem carteira de trabalho assinada ou é funcionário público estatutário?;3;Não
+C007B;Tem carteira de trabalho assinada ou é funcionário público estatutário?;;Não aplicável
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;01;Empregado doméstico, diarista, cozinheiro (em domicílios particulares), 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;02;Faxineiro, auxiliar de limpeza etc. (em empresa pública ou privada), 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;03;Auxiliar de escritório, escriturário
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;04;Secretária, recepcionista
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;05;Operador de Telemarketing
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;06;Comerciante (dono do bar, da loja etc.) 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;07;Balconista, vendedor de loja
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;08;Vendedor a domicílio, representante de vendas, vendedor de catálogo (Avon, Natura etc.)  
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;09;Vendedor ambulante (feirante, camelô, comerciante de rua, quiosque)
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;10;Cozinheiro e garçom (de restaurantes, empresas)
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;11;Padeiro, açougueiro e doceiro 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;12;Agricultor, criador de animais, pescador, silvicultor e jardineiro
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;13;Auxiliar da agropecuária (colhedor de frutas, boia fria, etc.)
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;14;Motorista (de aplicativo, de taxi, de van, de mototáxi, de ônibus)
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;15;Motorista de caminhão (caminhoneiro), 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;16;Motoboy, 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;17;Entregador de mercadorias (de restaurante, de farmácia, de loja, Uber Eats, IFood, Rappy etc.) 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;18;Pedreiro, servente de pedreiro, pintor, eletricista, marceneiro
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;19;Mecânico de veículos, máquinas industriais etc.
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;20;Artesão, costureiro e sapateiro
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;21;Cabeleireiro, manicure e afins
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;22;"Operador de máquinas, montador na indústria; "
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;23;"Auxiliar de produção, de carga e descarga;"
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;24;Professor da educação infantil, de ensino fundamental, médio ou superior,
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;25;Pedagogo, professor de idiomas, música, arte e reforço escolar
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;26;Médico, enfermeiro, profissionais de saúde de nível superior
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;27;Técnico, profissional da saúde de nível médio 
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;28;Cuidador de crianças, doentes ou idosos
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;29;Segurança, vigilante, outro trabalhador dos serviços de proteção
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;30;Policial civil
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;31;Porteiro, zelador
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;32;Artista, religioso (padre, pastor etc.)
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;33;Diretor, gerente, cargo político ou comissionado
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;34;Outra profissão de nível superior (advogado, engenheiro, contador, jornalista etc.)
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;35;Outro técnico ou profissional de nível médio
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;36;Outros
+C007C;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? ;;não aplicável
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;01;Agricultura, pecuária, produção florestal e pesca
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;02;Extração de petróleo, carvão mineral, minerais metálicos, pedra, areia, sal etc.
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;03;Indústria da transformação (inclusive confecção e fabricação caseira)
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;04;Fornecimento de eletricidade e gás, água, esgoto e coleta de lixo
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;05;Construção
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;06;"Comércio no atacado e varejo; "
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;07;Reparação de veículos automotores e motocicletas
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;08;Transporte de passageiros
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;09;Transporte de mercadorias
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;10;Armazenamento, correios e serviços de entregas
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;11;Hospedagem (hotéis, pousadas etc.) 
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;12;Serviço de alimentação (bares, restaurantes, ambulantes de alimentação)
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;13;Informação e comunicação (jornais, rádio e televisão, telecomunicações e informática)
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;14;Bancos, atividades financeiras e de seguros
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;15;Atividades imobiliárias
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;16;Escritórios de advocacia, engenharia, publicidade e veterinária (Atividades profissionais, científicas e técnicas)
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;17;Atividades de locação de mão de obra, segurança, limpeza, paisagismo e teleatendimento
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;18;Administração pública (governo federal, estadual e municipal)
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;19;Educação
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;20;Saúde humana e assistência social
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;21;Organizações religiosas, sindicatos e associações
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;22;Atividade artísticas, esportivas e de recreação 
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;23;Cabeleireiros, tratamento de beleza e serviços pessoais 
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;24;Serviço doméstico remunerado (será imputado da posição na ocupação)
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;25;Outro
+C007D;Qual é a principal atividade do local ou empresa em que você trabalha? ;;Não aplicável
+C007E;Na semana passada, quantos empregados trabalhavam nesse negócio/empresa que ... tinha ?;1;1 a 5 empregados 
+C007E;Na semana passada, quantos empregados trabalhavam nesse negócio/empresa que ... tinha ?;2;6 a 10 empregados
+C007E;Na semana passada, quantos empregados trabalhavam nesse negócio/empresa que ... tinha ?;3;11 ou mais empregados
+C007E;Na semana passada, quantos empregados trabalhavam nesse negócio/empresa que ... tinha ?;;Não aplicável
+C007E1;1 a 5 empregados;1 a 5;1 a 5 empregados 
+C007E1;2 a 5 empregados;;Não aplicável
+C007E2;6 a 10 empregados;06 a 10;06 a 10 empregados
+C007E2;7 a 10 empregados;;Não aplicável
+C007F;No trabalho (único ou principal) que tinha nessa semana, o(a) Sr(a) estava com o contrato de trabalho suspenso?;1;Sim
+C007F;No trabalho (único ou principal) que tinha nessa semana, o(a) Sr(a) estava com o contrato de trabalho suspenso?;2;Não
+C007F;No trabalho (único ou principal) que tinha nessa semana, o(a) Sr(a) estava com o contrato de trabalho suspenso?;;Não aplicável
+C008;Quantas horas, por semana, normalmente trabalhava?;001 a 120;Horas
+C008;Quantas horas, por semana, normalmente trabalhava?;;Não aplicável
+C009;Quantas horas, na semana passada, de fato trabalhou?;000 a 120;Horas
+C009A;Na semana passada, o(a) Sr(a) gostaria de ter trabalhado mais horas do que as de fato trabalhadas? ;1;Sim
+C009A;Na semana passada, o(a) Sr(a) gostaria de ter trabalhado mais horas do que as de fato trabalhadas? ;2;Não
+C009A;Na semana passada, o(a) Sr(a) gostaria de ter trabalhado mais horas do que as de fato trabalhadas? ;;Não aplicável
+C010;Quanto recebia (ou retirava) normalmente em todos os seus trabalhos;1;Indica se o quesito foi respondido
+C010;Quanto recebia (ou retirava) normalmente em todos os seus trabalhos;;Não aplicável
+C0101;Recebia/retirava normalmente em dinheiro;1;Em dinheiro
+C0101;Recebia/retirava normalmente em dinheiro;;Não aplicável
+C01011;Número da faixa do rendimento/retirada em dinheiro;00;0 - 100
+C01011;Número da faixa do rendimento/retirada em dinheiro;01 ;101 - 300
+C01011;Número da faixa do rendimento/retirada em dinheiro;02 ;301 - 600
+C01011;Número da faixa do rendimento/retirada em dinheiro;03 ;601 - 800
+C01011;Número da faixa do rendimento/retirada em dinheiro;04 ;801 - 1.600
+C01011;Número da faixa do rendimento/retirada em dinheiro;05 ;1.601 - 3.000
+C01011;Número da faixa do rendimento/retirada em dinheiro;06 ;3.001 - 10.000
+C01011;Número da faixa do rendimento/retirada em dinheiro;07 ;10.001 - 50.000
+C01011;Número da faixa do rendimento/retirada em dinheiro;08 ;50.001 - 100.000
+C01011;Número da faixa do rendimento/retirada em dinheiro;09 ;Mais de 100.000
+C01011;Número da faixa do rendimento/retirada em dinheiro;;Não aplicável
+C01012;Valor em dinheiro;valor em reais;R$
+C01012;Valor em dinheiro;;Não aplicável
+C0102;Recebia normalmente em produtos e mercadorias;2;Em produtos ou mercadorias
+C0102;Recebia normalmente em produtos e mercadorias;;Não aplicável
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;00;0 - 100
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;01 ;101 - 300
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;02 ;301 - 600
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;03 ;601 - 800
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;04 ;801 - 1.600
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;05 ;1.601 - 3.000
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;06 ;3.001 - 10.000
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;07 ;10.001 - 50.000
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;08 ;50.001 - 100.000
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;09 ;Mais de 100.000
+C01021;Número da faixa do rendimento/retirada em produtos e mercadorias;;Não aplicável
+C01022;Valor em produtos e mercadorias;valor em reais;R$
+C01022;Valor em produtos e mercadorias;;Não aplicável
+C0103;Recebia normalmente somente em benefícios;3;Em benefícios
+C0103;Recebia normalmente somente em benefícios;;Não aplicável
+C0104;Era não remunerado;4;Não remunerado
+C0104;Era não remunerado;;Não aplicável
+C011A;Quanto recebia (ou retirava) efetivamente em todos os seus trabalhos;1;Indica se o quesito foi respondido
+C011A;Quanto recebia (ou retirava) efetivamente em todos os seus trabalhos;;Não aplicável
+C011A1;Recebia/retirava efetivamente em dinheiro;1;Em dinheiro
+C011A1;Recebia/retirava efetivamente em dinheiro;;Não aplicável
+C011A11;Número da faixa do rendimento/retirada em dinheiro;00;0 - 100
+C011A11;Número da faixa do rendimento/retirada em dinheiro;01 ;101 - 300
+C011A11;Número da faixa do rendimento/retirada em dinheiro;02 ;301 - 600
+C011A11;Número da faixa do rendimento/retirada em dinheiro;03 ;601 - 800
+C011A11;Número da faixa do rendimento/retirada em dinheiro;04 ;801 - 1.600
+C011A11;Número da faixa do rendimento/retirada em dinheiro;05 ;1.601 - 3.000
+C011A11;Número da faixa do rendimento/retirada em dinheiro;06 ;3.001 - 10.000
+C011A11;Número da faixa do rendimento/retirada em dinheiro;07 ;10.001 - 50.000
+C011A11;Número da faixa do rendimento/retirada em dinheiro;08 ;50.001 - 100.000
+C011A11;Número da faixa do rendimento/retirada em dinheiro;09 ;Mais de 100.000
+C011A11;Número da faixa do rendimento/retirada em dinheiro;;Não aplicável
+C011A12;Valor em dinheiro;valor em reais;R$
+C011A12;Valor em dinheiro;;Não aplicável
+C011A2;Recebia efetivamente em produtos e mercadorias;2;Em produtos ou mercadorias
+C011A2;Recebia efetivamente em produtos e mercadorias;;Não aplicável
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;00;0 - 100
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;01 ;101 - 300
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;02 ;301 - 600
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;03 ;601 - 800
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;04 ;801 - 1.600
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;05 ;1.601 - 3.000
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;06 ;3.001 - 10.000
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;07 ;10.001 - 50.000
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;08 ;50.001 - 100.000
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;09 ;Mais de 100.000
+C011A21;Número da faixa do rendimento/retirada em produtos e mercadorias;;Não aplicável
+C011A22;Valor em produtos e mercadorias;valor em reais;R$
+C011A22;Valor em produtos e mercadorias;;Não aplicável
+C012;Na maior parte do tempo, na semana passada, esse trabalho (único ou principal) foi exercido no mesmo local em que costuma trabalhar? ;1;Sim
+C012;Na maior parte do tempo, na semana passada, esse trabalho (único ou principal) foi exercido no mesmo local em que costuma trabalhar? ;2;Não
+C012;Na maior parte do tempo, na semana passada, esse trabalho (único ou principal) foi exercido no mesmo local em que costuma trabalhar? ;;Não aplicável
+C013;Na semana passada, o(a) Sr(a) estava em trabalho remoto (home office ou teletrabalho)?;1;Sim
+C013;Na semana passada, o(a) Sr(a) estava em trabalho remoto (home office ou teletrabalho)?;2;Não
+C013;Na semana passada, o(a) Sr(a) estava em trabalho remoto (home office ou teletrabalho)?;;Não aplicável
+C014;O(A) Sr(a) contribui para o INSS?  ;1;Sim
+C014;O(A) Sr(a) contribui para o INSS?  ;2;Não
+C014;O(A) Sr(a) contribui para o INSS?  ;;Não aplicável
+C015;Na semana passada ___ tomou alguma providência efetiva para conseguir trabalho?  ;1;Sim
+C015;Na semana passada ___ tomou alguma providência efetiva para conseguir trabalho?  ;2;Não
+C015;Na semana passada ___ tomou alguma providência efetiva para conseguir trabalho?  ;;Não aplicável
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;01;Devido à pandemia (isolamento, quarentena ou distanciamento social)
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;02;Por problemas de saúde ou gravidez 
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;03;Estava estudando
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;04;Não quer trabalhar ou é aposentado
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;05;Não tinha experiência profissional ou qualificação
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;06;Acha que não vai encontrar trabalho por ser muito jovem ou idoso
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;07;Não havia trabalho na localidade
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;08;Tinha que cuidar dos afazeres domésticos e ou de parentes 
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;09;Estava aguardando resposta de medida tomada para conseguir trabalho 
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;10;Outro motivo
+C016;Qual o principal motivo de não ter procurado trabalho na semana passada? ;;Não aplicável
+C017A;Embora você não tenha procurado trabalho, gostaria de ter trabalhado na semana passada?;1;Sim
+C017A;Embora você não tenha procurado trabalho, gostaria de ter trabalhado na semana passada?;2;Não
+C017A;Embora você não tenha procurado trabalho, gostaria de ter trabalhado na semana passada?;;Não aplicável
+D0011;Rendimento recebido de aposentadoria e pensão por todos os moradores;1;Sim
+D0011;Rendimento recebido de aposentadoria e pensão por todos os moradores;2;Não
+D0013;Somatório dos valores recebidos;valor em reais;
+D0013;Somatório dos valores recebidos;;Não aplicável
+D0021;Rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio;1;Sim
+D0021;Rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio;2;Não
+D0023;Somatório dos valores recebidos;valor em reais;
+D0023;Somatório dos valores recebidos;;Não aplicável
+D0031;Rendimentos de Programa Bolsa Família;1;Sim
+D0031;Rendimentos de Programa Bolsa Família;2;Não
+D0033;Somatório dos valores recebidos;valor em reais;
+D0033;Somatório dos valores recebidos;;Não aplicável
+D0041; No mês de ... (mês de referência), ... recebeu rendimentos de Benefício Assistencial de Prestação Continuada – BPC-LOAS?;1;Sim
+D0041; No mês de ... (mês de referência), ... recebeu rendimentos de Benefício Assistencial de Prestação Continuada – BPC-LOAS?;2;Não
+D0043;Somatório dos valores recebidos;valor em reais;
+D0043;Somatório dos valores recebidos;;Não aplicável
+D0051;Auxílios emergenciais relacionados ao coronavirus;1;Sim
+D0051;Auxílios emergenciais relacionados ao coronavirus;2;Não
+D0053;Somatório dos valores recebidos;valor em reais;
+D0053;Somatório dos valores recebidos;;Não aplicável
+D0061;Seguro desemprego;1;Sim
+D0061;Seguro desemprego;2;Não
+D0063;Somatório dos valores recebidos;valor em reais;
+D0063;Somatório dos valores recebidos;;Não aplicável
+D0071;Outros rendimentos, como aluguel, arrendamento, previdência privada, bolsa de estudos, rendimentos de aplicação financeira etc.;1;Sim
+D0071;Outros rendimentos, como aluguel, arrendamento, previdência privada, bolsa de estudos, rendimentos de aplicação financeira etc.;2;Não
+D0073;Somatório dos valores recebidos;valor em reais;
+D0073;Somatório dos valores recebidos;;Não aplicável
+E001;Durante o período da pandemia alguém deste domicílio solicitou algum empréstimo?  ;1;Sim, e pelo menos um morador conseguiu 
+E001;Durante o período da pandemia alguém deste domicílio solicitou algum empréstimo?  ;2;Sim, mas nenhum morador conseguiu
+E001;Durante o período da pandemia alguém deste domicílio solicitou algum empréstimo?  ;3;Não solicitou
+E0021;Este empréstimo foi adquirido com banco ou financeira;1;Sim
+;Este empréstimo foi adquirido com banco ou financeira;2;Não 
+;Este empréstimo foi adquirido com banco ou financeira;;Não aplicável
+E0022;Este empréstimo foi adquirido com parente ou amigo;1;Sim
+;Este empréstimo foi adquirido com parente ou amigo;2;Não 
+;Este empréstimo foi adquirido com parente ou amigo;;Não aplicável
+E0023;Este empréstimo foi adquirido com empregados ou patrão;1;Sim
+;Este empréstimo foi adquirido com empregados ou patrão;2;Não 
+;Este empréstimo foi adquirido com empregados ou patrão;;Não aplicável
+E0024;Este empréstimo foi adquirido com outro local ou pessoa;1;Sim
+;Este empréstimo foi adquirido com outro local ou pessoa;2;Não 
+;Este empréstimo foi adquirido com outro local ou pessoa;;Não aplicável
+F001;Este domicílio é: ;1;Próprio - já pago 
+F001;Este domicílio é: ;2;Próprio - ainda pagando
+F001;Este domicílio é: ;3;Alugado
+F001;Este domicílio é: ;4;Cedido por empregador
+F001;Este domicílio é: ;5;Cedido por familiar 
+F001;Este domicílio é: ;6;Cedido de outra forma 
+F001;Este domicílio é: ;7;Outra condição
+F0021;Qual foi o valor mensal do aluguel pago, ou que deveria ter sido pago, no mês de referência?;valor em reais;R$
+F0021;Qual foi o valor mensal do aluguel pago, ou que deveria ter sido pago, no mês de referência?;;Não aplicável
+F0022;Número da faixa do aluguel pago;00;1 - 100
+F0022;Número da faixa do aluguel pago;01 ;101 - 300
+F0022;Número da faixa do aluguel pago;02 ;301 - 600
+F0022;Número da faixa do aluguel pago;03 ;601 - 800
+F0022;Número da faixa do aluguel pago;04 ;801 - 1.600
+F0022;Número da faixa do aluguel pago;05 ;1.601 - 3.000
+F0022;Número da faixa do aluguel pago;06 ;3.001 - 10.000
+F0022;Número da faixa do aluguel pago;07 ;10.001 - 50.000
+F0022;Número da faixa do aluguel pago;08 ;50.001 - 100.000
+F0022;Número da faixa do aluguel pago;09 ;Mais de 100.000
+F0022;Número da faixa do aluguel pago;88;Aluguel a vencer
+F0022;Número da faixa do aluguel pago;;Não aplicável
+F002A1;No seu domicílio há os seguintes itens básicos de limpeza e proteção: sabão ou detergente;1;Sim
+F002A1;No seu domicílio há os seguintes itens básicos de limpeza e proteção: sabão ou detergente;2;Não 
+F002A1;No seu domicílio há os seguintes itens básicos de limpeza e proteção: sabão ou detergente;3;Não sabe
+F002A2;No seu domicílio há os seguintes itens básicos de limpeza e proteção: álcool 70% ou superior (gel ou líquido);1;Sim
+F002A2;No seu domicílio há os seguintes itens básicos de limpeza e proteção: álcool 70% ou superior (gel ou líquido);2;Não 
+F002A2;No seu domicílio há os seguintes itens básicos de limpeza e proteção: álcool 70% ou superior (gel ou líquido);3;Não sabe
+F002A3;No seu domicílio há os seguintes itens básicos de limpeza e proteção: máscaras;1;Sim
+F002A3;No seu domicílio há os seguintes itens básicos de limpeza e proteção: máscaras;2;Não 
+F002A3;No seu domicílio há os seguintes itens básicos de limpeza e proteção: máscaras;3;Não sabe
+F002A4;No seu domicílio há os seguintes itens básicos de limpeza e proteção: luvas descartáveis;1;Sim
+F002A4;No seu domicílio há os seguintes itens básicos de limpeza e proteção: luvas descartáveis;2;Não 
+F002A4;No seu domicílio há os seguintes itens básicos de limpeza e proteção: luvas descartáveis;3;Não sabe
+F002A5;No seu domicílio há os seguintes itens básicos de limpeza e proteção: água sanitária ou desinfetante;1;Sim
+F002A5;No seu domicílio há os seguintes itens básicos de limpeza e proteção: água sanitária ou desinfetante;2;Não 
+F002A5;No seu domicílio há os seguintes itens básicos de limpeza e proteção: água sanitária ou desinfetante;3;Não sabe
+F0061;Quem respondeu ao questionário?;1;Pessoa moradora
+F0061;Quem respondeu ao questionário?;2;Pessoa não moradora
+F0061;Quem respondeu ao questionário?;9;Ignorado
+F006;Número de ordem do morador que prestou as informações;1 a 30;Número de ordem do morador
+F006;Número de ordem do morador que prestou as informações;;Não aplicado
