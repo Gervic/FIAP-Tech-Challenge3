@@ -68,3 +68,146 @@ total_med AS (
     AND categoria_de_abertura_1  = (SELECT abertura_territorial FROM variaveis_de_pesquisa)
     GROUP BY indicador,abertura_territorial
     --ORDER BY abertura_territorial
+
+
+
+    ---- QUERY PADRÃO DE CONSULTA, PODEMOS ALTERAR PELOS RESULTADOS (CONSULTA MÉDIA E PERCENTUAL MÉDIA DE CADA CATEGORIA DE ACORDO COM A ANÁLISE DE ABERTURA GRUPO DE IDADE)
+
+WITH VARIAVEL_STRING AS (
+    SELECT 'Pessoas com alguma comorbidade e que testaram positivo em algum dos testes (mil pessoas)' AS NOME_INDI,
+           'Grupos de Idade 2' as VAR_ABER1
+),
+total_med AS (
+    -- Calcular a soma total das médias de todas as linhas
+    SELECT 
+        SUM((setembro + outubro + novembro) / 3.0) AS soma_total_media
+    FROM worspace.tb_pnad_covid_tech
+    WHERE indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+)
+SELECT  
+    categoria_de_abertura_1,
+    SUM(setembro) AS "SOMA_SETEMBRO",
+    SUM(outubro) AS "SOMA_OUTUBRO",
+    SUM(novembro) AS "SOMA_NOVEMBRO",
+    -- Calcular a média por linha (usando SUM para cada coluna antes de dividir)
+    (SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0 AS "MÉDIA",
+    -- Calcular o percentual da média
+    ROUND(((SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0) * 100.0 / (SELECT soma_total_media FROM total_med)) AS percentual_media
+FROM 
+    worspace.tb_pnad_covid_tech
+WHERE 
+    indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+GROUP BY 
+    categoria_de_abertura_1;
+
+
+
+
+--------- QUERY PADRÃO DE CONSULTA, PODEMOS ALTERAR PELOS RESULTADOS (CONSULTA MÉDIA E PERCENTUAL MÉDIA DE CADA CATEGORIA DE ACORDO COM A ANÁLISE DE ABERTURA COR E RAÇA)-------------
+
+WITH VARIAVEL_STRING AS (
+    SELECT 'Pessoas com alguma comorbidade e que testaram positivo em algum dos testes (mil pessoas)' AS NOME_INDI,
+           'Cor ou Raça' as VAR_ABER1
+),
+total_med AS (
+    -- Calcular a soma total das médias de todas as linhas
+    SELECT 
+        SUM((setembro + outubro + novembro) / 3.0) AS soma_total_media
+    FROM worspace.tb_pnad_covid_tech
+    WHERE indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+)
+SELECT  
+    categoria_de_abertura_1,
+    SUM(setembro) AS "SOMA_SETEMBRO",
+    SUM(outubro) AS "SOMA_OUTUBRO",
+    SUM(novembro) AS "SOMA_NOVEMBRO",
+    -- Calcular a média por linha (usando SUM para cada coluna antes de dividir)
+    (SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0 AS "MÉDIA",
+    -- Calcular o percentual da média
+    ROUND(((SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0) * 100.0 / (SELECT soma_total_media FROM total_med)) AS percentual_media
+FROM 
+    worspace.tb_pnad_covid_tech
+WHERE 
+    indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+GROUP BY 
+    categoria_de_abertura_1;
+
+
+
+
+
+-------- QUERY PADRÃO DE CONSULTA, PODEMOS ALTERAR PELOS RESULTADOS (CONSULTA MÉDIA E PERCENTUAL MÉDIA DE CADA CATEGORIA DE ACORDO COM A ANÁLISE DE ABERTURA NIVEL DE INSTRUÇÃO)-------------------
+
+WITH VARIAVEL_STRING AS (
+    SELECT 'Pessoas com alguma comorbidade e que testaram positivo em algum dos testes (mil pessoas)' AS NOME_INDI,
+           'Nível de instrução' as VAR_ABER1
+),
+total_med AS (
+    -- Calcular a soma total das médias de todas as linhas
+    SELECT 
+        SUM((setembro + outubro + novembro) / 3.0) AS soma_total_media
+    FROM worspace.tb_pnad_covid_tech
+    WHERE indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+)
+SELECT  
+    categoria_de_abertura_1,
+    SUM(setembro) AS "SOMA_SETEMBRO",
+    SUM(outubro) AS "SOMA_OUTUBRO",
+    SUM(novembro) AS "SOMA_NOVEMBRO",
+    -- Calcular a média por linha (usando SUM para cada coluna antes de dividir)
+    (SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0 AS "MÉDIA",
+    -- Calcular o percentual da média
+    ROUND(((SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0) * 100.0 / (SELECT soma_total_media FROM total_med)) AS percentual_media
+FROM 
+    worspace.tb_pnad_covid_tech
+WHERE 
+    indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+GROUP BY 
+    categoria_de_abertura_1;
+
+
+
+---- QUERY PADRÃO DE CONSULTA, PODEMOS ALTERAR PELOS RESULTADOS (CONSULTA MÉDIA E PERCENTUAL MÉDIA DE CADA CATEGORIA DE ACORDO COM A ANÁLISE DE ABERTURA SEXO)
+
+WITH VARIAVEL_STRING AS (
+    SELECT 'Pessoas com alguma comorbidade e que testaram positivo em algum dos testes (mil pessoas)' AS NOME_INDI,
+           'Sexo' as VAR_ABER1
+),
+total_med AS (
+    -- Calcular a soma total das médias de todas as linhas
+    SELECT 
+        SUM((setembro + outubro + novembro) / 3.0) AS soma_total_media
+    FROM worspace.tb_pnad_covid_tech
+    WHERE indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+)
+SELECT  
+    categoria_de_abertura_1,
+    SUM(setembro) AS "SOMA_SETEMBRO",
+    SUM(outubro) AS "SOMA_OUTUBRO",
+    SUM(novembro) AS "SOMA_NOVEMBRO",
+    -- Calcular a média por linha (usando SUM para cada coluna antes de dividir)
+    (SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0 AS "MÉDIA",
+    -- Calcular o percentual da média
+    ROUND(((SUM(setembro) + SUM(outubro) + SUM(novembro)) / 3.0) * 100.0 / (SELECT soma_total_media FROM total_med)) AS percentual_media
+FROM 
+    worspace.tb_pnad_covid_tech
+WHERE 
+    indicador = (SELECT NOME_INDI FROM VARIAVEL_STRING)
+    AND variavel_de_abertura_1 = (SELECT VAR_ABER1 FROM VARIAVEL_STRING)
+    AND categoria_de_abertura_1 NOT LIKE '%Tot%'
+GROUP BY 
+    categoria_de_abertura_1;
